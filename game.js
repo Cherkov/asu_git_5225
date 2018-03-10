@@ -4,9 +4,9 @@
 //
 
 KEY_CODES = {
-  32: 'space',
+  32: 'up',
   37: 'left',
-  38: 'up',
+  38: 'space',
   39: 'right',
   40: 'down',
   70: 'f',
